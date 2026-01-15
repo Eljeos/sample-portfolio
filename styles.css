@@ -1,3 +1,7 @@
+/* Make hero description text white */
+.hero-description-white {
+    color: #fff;
+}
 /* ============================================
    GLOBAL STYLES & VARIABLES
    ============================================ */
